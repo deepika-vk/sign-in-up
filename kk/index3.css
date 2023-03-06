@@ -1,0 +1,229 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .pexels-matheus-bertelli-286823-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1512px;
+    height: 982px;
+    object-fit: cover;
+  }
+  .macbook-pro-14-6-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.42);
+    width: 1512px;
+    height: 982px;
+  }
+  .heli {
+    font-weight: 800;
+  }
+  .ride {
+    color: var(--background-paper);
+  }
+  .heliride {
+    position: absolute;
+    top: 21px;
+    left: 60px;
+    text-transform: uppercase;
+    color: var(--color-black);
+  }
+  .group-child {
+    border: 0;
+    left: 0;
+    height: 13px;
+  }
+  .group-child,
+  .group-item,
+  .ham-menu {
+    background-color: var(--color-gainsboro-200);
+    position: absolute;
+    top: 0;
+    width: 3px;
+  }
+  .group-item {
+    cursor: pointer;
+    left: 7px;
+    height: 21px;
+  }
+  .ham-menu {
+    border: 0;
+    left: 14px;
+    height: 16px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 28px;
+    left: 749px;
+    width: 17px;
+    height: 21px;
+  }
+  .book-about-us {
+    position: absolute;
+    top: 28px;
+    left: 1171px;
+    font-size: var(--font-size-sm);
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .welcome-to-heliride {
+    margin-block-start: 0;
+    margin-block-end: 3px;
+  }
+  .lets-create-memories {
+    margin: 0;
+  }
+  .welcome-to-heliride-container {
+    position: absolute;
+    top: 71px;
+    left: 6px;
+    text-transform: uppercase;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .frame-input,
+  .group-inner {
+    font-weight: 800;
+    font-family: var(--font-museomoderno);
+    font-size: var(--font-size-sm);
+    position: absolute;
+    top: 207px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-2xl);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .group-inner {
+    border: 0;
+    background-color: #131313;
+    left: 5px;
+  }
+  .frame-input {
+    border: 2.5px solid var(--color-black);
+    background-color: transparent;
+    left: 139px;
+  }
+  .ellipse-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 50px;
+  }
+  .hello {
+    position: absolute;
+    top: 12px;
+    left: 25px;
+    font-size: var(--font-size-2xl);
+    text-transform: uppercase;
+    font-weight: 900;
+    font-family: var(--font-museomoderno);
+  }
+  .welcome-to-heliride-lets-cre-parent {
+    position: absolute;
+    top: 373px;
+    left: 187px;
+    width: 541px;
+    height: 248px;
+    font-size: 40px;
+    font-family: var(--font-myanmar-khyay);
+  }
+  .eng-hindi,
+  .heliride-c-2023 {
+    position: absolute;
+    top: 941px;
+    left: 1368px;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  .eng-hindi {
+    top: 935px;
+    left: 60px;
+    font-size: 14px;
+    color: #bfbfbf;
+  }
+  .macbook-pro-14-6-item,
+  .slider {
+    position: absolute;
+    top: 944px;
+    left: 1416px;
+    width: 11px;
+    height: 11px;
+  }
+  .slider {
+    cursor: pointer;
+    top: 427px;
+    left: 1382px;
+    width: 70px;
+    height: 85px;
+  }
+  .follow-us {
+    position: absolute;
+    top: 340.99px;
+    left: 0;
+    text-transform: uppercase;
+    font-weight: 600;
+    transform: rotate(-89.94deg);
+    transform-origin: 0 0;
+  }
+  .social-child {
+    position: absolute;
+    top: 168px;
+    left: 10px;
+    width: 2.07px;
+    height: 60px;
+  }
+  .icons8-facebook-1,
+  .icons8-instagram-1-1,
+  .icons8-twitter-1,
+  .icons8-youtube-1 {
+    position: absolute;
+    top: 78px;
+    left: 2px;
+    width: 21px;
+    height: 21px;
+    overflow: hidden;
+  }
+  .icons8-facebook-1,
+  .icons8-instagram-1-1,
+  .icons8-twitter-1 {
+    top: 39px;
+  }
+  .icons8-instagram-1-1,
+  .icons8-twitter-1 {
+    top: 0;
+  }
+  .icons8-instagram-1-1 {
+    height: 6.16%;
+    width: 87.15%;
+    top: 34.31%;
+    right: 4.55%;
+    bottom: 59.53%;
+    left: 8.3%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .social {
+    position: absolute;
+    top: 320px;
+    left: 59px;
+    width: 24.1px;
+    height: 341.01px;
+    font-size: var(--components-button-large-size);
+  }
+  .macbook-pro-14-6 {
+    position: relative;
+    background-color: var(--background-paper);
+    width: 100%;
+    height: 982px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 25px;
+    color: var(--background-paper);
+    font-family: var(--font-museomoderno);
+  }
+  

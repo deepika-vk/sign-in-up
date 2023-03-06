@@ -1,0 +1,15 @@
+:root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-nunito-sans: "Nunito Sans";
+  
+    /* Colors */
+    --color-gray-100: #fafafa;
+    --color-white: #fff;
+    --color-dimgray: #7e6a6a;
+    --color-black: #000;
+  
+    /* border radiuses */
+    --br-sm: 26px;
+    --br-md: 46px;
+  }

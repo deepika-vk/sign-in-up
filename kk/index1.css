@@ -1,0 +1,266 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .oyhj050-removebg-preview-1-icon {
+    position: absolute;
+    top: 110px;
+    left: 10px;
+    width: 958.79px;
+    height: 789.66px;
+    object-fit: cover;
+  }
+  .group-icon {
+    position: absolute;
+    height: 7.57%;
+    width: 6.29%;
+    top: 1.93%;
+    right: 91.79%;
+    bottom: 90.5%;
+    left: 1.92%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .welcome-to-heliride {
+    position: absolute;
+    top: 124px;
+    left: 38px;
+    font-size: 28px;
+    letter-spacing: 0.1em;
+    line-height: 44px;
+    font-family: var(--font-nunito-sans);
+    color: #ede4e4;
+    display: flex;
+    align-items: center;
+    width: 450px;
+    height: 145px;
+  }
+  .macbook-pro-14-4-child,
+  .macbook-pro-14-4-item {
+    position: absolute;
+    top: 98.66px;
+    left: 840.48px;
+    border-radius: var(--br-md);
+    background-color: rgba(255, 255, 255, 0.27);
+    width: 462.81px;
+    height: 779.03px;
+    transform: rotate(-5.98deg);
+    transform-origin: 0 0;
+  }
+  .macbook-pro-14-4-item {
+    top: 148.2px;
+    left: 784px;
+    background-color: rgba(255, 198, 198, 0.27);
+    width: 462.7px;
+    height: 779.22px;
+    transform: rotate(-15.44deg);
+  }
+  .macbook-pro-14-4-inner {
+    position: absolute;
+    top: 94px;
+    left: 892px;
+    border-radius: var(--br-md);
+    background-color: rgba(217, 217, 217, 0.76);
+    width: 463px;
+    height: 725px;
+  }
+  .please-login-to,
+  .sign-in {
+    position: absolute;
+    top: 241px;
+    left: 1031px;
+    font-size: 48px;
+    display: inline-block;
+    width: 161px;
+  }
+  .please-login-to {
+    top: 306px;
+    left: 1011px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: var(--color-dimgray);
+    width: 226px;
+  }
+  .i-forgot-my,
+  .remember-me {
+    position: absolute;
+    top: 527px;
+    display: inline-block;
+  }
+  .i-forgot-my {
+    left: 1149px;
+    color: var(--color-mediumslateblue);
+    width: 155px;
+    
+  }
+  .input-container {
+    padding: 50px;
+    box-sizing:none;
+    left: 20px;
+    top:25%;
+  left:25%;
+  margin-left: 10px;
+  margin-right: 50%;
+  margin-bottom: 10px;
+  
+  }
+  
+  .input-field {
+    border: none;
+    width: 353px;
+    bottom: 4%;
+    padding-left: 40px;
+    height: 48px;
+    background-color: #e1e1e1;
+    margin-bottom: 40px;
+    background-image: url('padlock\ 1\ \(1\).png');
+    background-size: 20px;
+    background-position-x: 10px;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    border-radius: var(--br-sm);
+    position:relative; right:85px; top:2px
+  }
+  .no-outline:focus {
+    outline: none;
+  }
+  .input-field1:focus{
+    outline: none;
+  }
+  .input-field1 {
+    border: none;
+    width: 353px;
+  margin-bottom: 30px;
+    padding-left: 40px;
+    height: 48px;
+    background-color: #e1e0e0;
+    background-image: url('envelope\ 1\ \(1\).png');
+    background-size: 20px;
+    background-position-x: 10px;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+     border-radius: var(--br-sm);
+     position:relative; right:85px; top:2px;
+  }
+  .remember-me {
+    left: 949px;
+    width: 104px;
+  }
+  .create-a-free {
+    color: var(--color-mediumslateblue);
+  }
+  .dont-have-an-container {
+    position: absolute;
+    top: 650px;
+    left: 959px;
+    display: inline-block;
+    width: 325px;
+  }
+  .square-1-icon {
+    position: absolute;
+    top: 528px;
+    left: 928px;
+    width: 15px;
+    height: 15px;
+    object-fit: cover;
+  }
+  .rectangle-button,
+  .rectangle-input,
+  .rectangle-select {
+    position: absolute;
+    left: 924px;
+    border-radius: var(--br-sm);
+    background-color: var(--color-gainsboro-100);
+    width: 385px;
+    height: 47px;
+  }
+  .rectangle-button {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    top: 367px;
+  }
+  .rectangle-input,
+  .rectangle-select {
+    top: 451px;
+  }
+  .rectangle-input {
+    border: 0;
+    background-color: var(--color-black);
+    top: 574px;
+    left: 919px;
+    width: 386px;
+  }
+  .envelope-1-icon {
+    position: absolute;
+    top: 380px;
+    left: 949px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+  }
+  .enter-email,
+  .enter-password {
+    position: absolute;
+    top: 381px;
+    left: 983px;
+    font-size: var(--font-size-lg);
+    color: var(--color-dimgray);
+    display: inline-block;
+    width: 85px;
+  }
+  .enter-password {
+    top: 466px;
+    width: 120px;
+  }
+  .padlock-1-icon {
+    position: absolute;
+    top: 465px;
+    left: 949px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+  }
+  .rectangle{
+    left: 200%;
+    height: 45px;
+    position:sticky;
+    bottom: 45px;
+    
+    text-align: left;
+    border: #151414;
+    width: 450%;
+    border-radius: var(--br-sm);
+    background-color: #c8c7c7;
+  }
+  .rectangl
+  {
+    height: 200%;
+    width: 200%;
+    border: #6e6d6d;
+    background-color: #d1cfcff5;
+  box-sizing: content-box;
+  }
+  .sign-in1 {
+    position: absolute;
+    top: 583px;
+    left: 1063px;
+    font-size: 23px;
+    letter-spacing: 0.02em;
+    color: #fff;
+    display: inline-block;
+    width: 90px;
+  }
+  .macbook-pro-14-4 {
+    position: relative;
+    background-color: #151414;
+    width: 100%;
+    height: 982px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  
